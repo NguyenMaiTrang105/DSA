@@ -1,4 +1,4 @@
-package DSA_TUT3;
+package DSA_TUT3_Sort;
 
 public class heapSort {
     public static void main(String[] args) {
